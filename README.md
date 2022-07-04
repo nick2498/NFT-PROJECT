@@ -24,7 +24,7 @@ maximum display size to ensure usability and satisfaction.
 [![Github](https://img.shields.io/github/followers/nick2498?label=Follow&style=social)](https://github.com/nick2498)
 
 ## Project Link🐷
-**https://goofypigs.netlify.app**
+**https://nftwebsitedemo.netlify.app/**
 
 ## Linktree Link🌴
 **https://linktr.ee/goofypigs**
