@@ -138,10 +138,6 @@ footer {
   -webkit-background-clip: text;
 }
 
-/* .navbar .navbar-brand:hover {
-  color: #fff;
-} */
-
 .navbar .navbar-nav .nav-link {
   font-weight: 600;
   font-size: 14px;
@@ -310,11 +306,6 @@ footer {
 }
 
 .team-grid {
-  /* display: grid;
-  text-align: center;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem; */
-
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -733,4 +724,3 @@ footer {
   }
 }
 /* Media queries end */
-
